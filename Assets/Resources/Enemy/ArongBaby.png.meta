@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 07be7a58fa7ebb94eae88729b8085aa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2262457142886264120
+    second: ArongBaby1_Die
+  - first:
+      213: -1146887378686006334
+    second: ArongBaby1_Move1
+  - first:
+      213: -257434567263625346
+    second: ArongBaby1_Move2
+  - first:
+      213: -6525877933598501181
+    second: ArongBaby1_Idle
+  - first:
+      213: 2176057970109685616
+    second: ArongBaby2_Die
+  - first:
+      213: 9118040613824368287
+    second: ArongBaby2_Move1
+  - first:
+      213: 7822225445277566959
+    second: ArongBaby2_Move2
+  - first:
+      213: -8537990877625213971
+    second: ArongBaby2_Idle
+  - first:
+      213: -1184228817729950957
+    second: ArongBaby3_Die
+  - first:
+      213: -1331965516155537791
+    second: ArongBaby3_Move1
+  - first:
+      213: 404806671187657543
+    second: ArongBaby3_Move2
+  - first:
+      213: -6773855752853068188
+    second: ArongBaby3_Idle
+  - first:
+      213: -4416523063845172700
+    second: ArongBaby4_Die
+  - first:
+      213: 1829878505183357347
+    second: ArongBaby4_Move1
+  - first:
+      213: -5721724854348135082
+    second: ArongBaby4_Move2
+  - first:
+      213: -2145994714139691805
+    second: ArongBaby4_Idle
+  - first:
+      213: -2860371572442877245
+    second: ArongBaby1_Die
+  - first:
+      213: -4586534658160237103
+    second: ArongBaby1_Move1
+  - first:
+      213: 236902161344363310
+    second: ArongBaby1_Move2
+  - first:
+      213: -4843286636468477172
+    second: ArongBaby1_Idle
+  - first:
+      213: -5244846093524363637
+    second: ArongBaby2_Die
+  - first:
+      213: 5141814467044344635
+    second: ArongBaby2_Move1
+  - first:
+      213: 7178309713063039511
+    second: ArongBaby2_Move2
+  - first:
+      213: 4030047736374973788
+    second: ArongBaby2_Idle
+  - first:
+      213: 7552134936687462993
+    second: ArongBaby3_Die
+  - first:
+      213: 6636676847051354412
+    second: ArongBaby3_Move1
+  - first:
+      213: 7489558076256199002
+    second: ArongBaby3_Move2
+  - first:
+      213: 7105391862407694456
+    second: ArongBaby3_Idle
+  - first:
+      213: 4987881916267241192
+    second: ArongBaby4_Die
+  - first:
+      213: 6601246433872467039
+    second: ArongBaby4_Move1
+  - first:
+      213: -6986114517393304989
+    second: ArongBaby4_Move2
+  - first:
+      213: -5497841275381848775
+    second: ArongBaby4_Idle
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArongBaby1_Die
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 953
+        width: 214
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86eebb69d85a7d45adcdf49edadffad
+      internalID: -2860371572442877245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby1_Move1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 953
+        width: 133
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444654f11fb3484881929b8146a2056
+      internalID: -4586534658160237103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby1_Move2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 949
+        width: 134
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a812230736ab94f8cd77ff2a8c8008
+      internalID: 236902161344363310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby1_Idle
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 942
+        width: 133
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8562031b087b41826605bca2a8480
+      internalID: -4843286636468477172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby2_Die
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 652
+        width: 219
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f1b773e687cd45b2707b9a6d0be62
+      internalID: -5244846093524363637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby2_Move1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 652
+        width: 127
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ade2a73605fe4bbd50498464f63c7
+      internalID: 5141814467044344635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby2_Move2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 651
+        width: 132
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe64e4bcaa920440bff8d19c769feb6
+      internalID: 7178309713063039511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby2_Idle
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 656
+        width: 121
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c7eeddc5db5543b44f6b81267f03d
+      internalID: 4030047736374973788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby3_Die
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 373
+        width: 214
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9eadd82046f24448f57c5055ebd8ed
+      internalID: 7552134936687462993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby3_Move1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 373
+        width: 138
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb161968289a04c82311d650f1ae95
+      internalID: 6636676847051354412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby3_Move2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 373
+        width: 138
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4054e62641d7ed4d847c8dabbda64e9
+      internalID: 7489558076256199002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby3_Idle
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 361
+        width: 125
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a961e9190c77ee4cadeabf09e7a82e8
+      internalID: 7105391862407694456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby4_Die
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 89
+        width: 216
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38acdf508a67b4e99c612d57d549ea
+      internalID: 4987881916267241192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby4_Move1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 55
+        width: 128
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf215eb37e0880489bcd6e0e7074874
+      internalID: 6601246433872467039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby4_Move2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 55
+        width: 136
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5739e5ccf09c0bd4da190d1cb3e236a0
+      internalID: -6986114517393304989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArongBaby4_Idle
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 57
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04063075adb32c44ae72cb62308005f
+      internalID: -5497841275381848775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45a0c5191b735bf4d9feaf13906cd123
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

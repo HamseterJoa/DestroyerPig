@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: ab6b8f50c8042964bafb7ce91138871c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3777735016579924727
+    second: PigKing_Idle
+  - first:
+      213: -183601016166662864
+    second: PigKing_Move1
+  - first:
+      213: 2892012997210195490
+    second: PigKing_Move2
+  - first:
+      213: 1313614297525080604
+    second: PigKing_Die
+  - first:
+      213: 4045250627382229725
+    second: PigKing_ServantIdle(Left)
+  - first:
+      213: -6984738617514374374
+    second: PigKing_ServantAttack1(Left)
+  - first:
+      213: -4813390631648454543
+    second: PigKing_ServantAttack2(Left)
+  - first:
+      213: 7177634540857271598
+    second: PigKing_ServantAttack3(Left)
+  - first:
+      213: -3786423819523397750
+    second: PigKing_ServantAttack3(Right)
+  - first:
+      213: 7486640595094788127
+    second: PigKing_ServantIdle
+  - first:
+      213: 7692312131172276132
+    second: PigKing_ServantAttack2(Right)
+  - first:
+      213: 5908934293639062162
+    second: PigKing_ServantAttack1(Right)
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PigKing_Idle
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1972
+        width: 782
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b631849821ec0ad4c836223470a33b3f
+      internalID: -3777735016579924727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_Move1
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1983
+        width: 784
+        height: 1017
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6579eb76c7ace4cbe8072d6cfddf79
+      internalID: -183601016166662864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_Move2
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1971
+        width: 784
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d65159f3b830d40b50bd8e2d00c605
+      internalID: 2892012997210195490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_Die
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1976
+        width: 1039
+        height: 976
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43fec71cec7be143966b9475d1165fc
+      internalID: 1313614297525080604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantIdle(Left)
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1290
+        width: 274
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d8698ab5cdb24aa4667c0e55fcec2
+      internalID: 4045250627382229725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantAttack1(Left)
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1318
+        width: 266
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df360950a49d90645acbe5dc88cb946e
+      internalID: -6984738617514374374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantAttack2(Left)
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1338
+        width: 279
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629171f833f3c641b299fe39e7ca6cf
+      internalID: -4813390631648454543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantAttack3(Left)
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 959
+        width: 870
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8731c177e4bd2ae40b7a6b9ce8fd900d
+      internalID: 7177634540857271598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantAttack3(Right)
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 870
+        height: 757
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcebb07adc19a4498b6f5a53e24f9d4
+      internalID: -3786423819523397750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantIdle
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 377
+        width: 280
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97095b108d382224c8e6e85688690a03
+      internalID: 7486640595094788127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantAttack2(Right)
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 356
+        width: 265
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbcbb23460b014d8923db5871f1241
+      internalID: 7692312131172276132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigKing_ServantAttack1(Right)
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 328
+        width: 275
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a6b7f9f663fa44a642bcd15abdf5d
+      internalID: 5908934293639062162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e01124ed6b08e1e4ca080cfb5ba02163
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
